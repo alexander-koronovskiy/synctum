@@ -1,0 +1,11 @@
+10
+user1 5 100
+user2 3 50
+user3 7 150
+user4 4 80
+user5 6 120
+user6 2 30
+user7 8 200
+user8 9 180
+user9 1 10
+user10 4 75
