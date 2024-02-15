@@ -1,0 +1,9 @@
+*.DS_Store
+*.ipynb_checkpoints
+*many_urls.py
+*sites.txt
+*data
+*example
+#*.db
+venv
+*.idea
